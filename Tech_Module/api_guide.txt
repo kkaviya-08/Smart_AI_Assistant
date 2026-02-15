@@ -1,0 +1,13 @@
+Authentication:
+System uses JWT tokens.
+
+Login Endpoint:
+POST /api/v2/login
+
+Refresh Token:
+POST /api/v2/refresh-token
+
+Registration:
+POST /api/v2/register
+
+All protected APIs require Authorization header.

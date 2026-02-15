@@ -1,0 +1,12 @@
+Password Reset:
+Users must click "Forgot Password" and follow email instructions.
+
+Internet Issue:
+Restart router and contact network admin if problem continues.
+
+Software Installation:
+Submit installation request through IT portal.
+
+System Crash:
+Restart system. If unresolved, contact IT support team.
+
